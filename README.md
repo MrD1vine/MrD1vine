@@ -8,5 +8,5 @@ Hi, I'm MrDivine!
 
 ## Extra
 <a href="https://github.com/BatchBattle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2b6cbc&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BatchBattle&repo=Messenger&title_color=9A0000&text_color=444444&icon_color=4E0000&bg_color=4E000000&border_color=4E0000" />
 </a>
